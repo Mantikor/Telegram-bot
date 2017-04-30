@@ -5,4 +5,8 @@ At now bot works on Orange Pi PC2 dev board
 
 # add bot: @Blablasoft_bot
 
-# commands: /say - send joke, /sysinfo - server status, /help - help info, /root - info about user rights
+Bot commands:
+/say - send joke,
+/sysinfo - server status,
+/help - help info,
+/root - info about user rights
